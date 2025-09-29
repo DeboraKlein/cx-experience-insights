@@ -143,11 +143,11 @@ O dashboard completo pode ser acessado [neste link](https://app.powerbi.com/view
 ### 1. Capa
 ![Capa](https://github.com/user-attachments/assets/d8f5b5a9-e516-4bdb-a59b-7cb8163f0586)
 
-### 2. Gráfico de Dispersão – Atrito vs Frustração
-![Scatter Plot](dashboards/scatter_atrito_frustracao.png)
+### 2. Radar de Experiência Urbana
+![Radar](https://github.com/user-attachments/assets/19b549ba-0ead-414d-b515-24facb8bd065)
 
-### 3. Mapa por ZIP Code
-![Mapa por ZIP](dashboards/mapa_zipcodes.png)
+### 3. Análises da Experiência Urbana
+![Análises](https://github.com/user-attachments/assets/e7634ec7-250d-416d-b263-07927000302e)
 
 
 
