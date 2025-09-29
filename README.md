@@ -106,10 +106,6 @@ Diferença entre a nota máxima (10) e a nota final média. Representa o quanto 
 
 ---
 
-### 🔴 Zonas Críticas
-Total de zonas com nota final abaixo de 6. Representam áreas com alto risco de insatisfação e devem ser monitoradas com prioridade.
-
----
 
 ## 📈 Visuais no Power BI
 
