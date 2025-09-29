@@ -164,6 +164,7 @@ O dashboard completo pode ser acessado [neste link](https://app.powerbi.com/view
 - Investigar causas sistêmicas como rotas ineficientes, precificação agressiva ou tempo excessivo de deslocamento  
 - Usar o scatter plot para identificar zonas fora da curva  
 - Monitorar o gap de experiência como meta de melhoria contínua
+### Essas recomendações visam transformar dados operacionais em ações concretas de melhoria contínua, fortalecendo a cultura de CX e a tomada de decisão orientada por evidências.
 
 ---
 
