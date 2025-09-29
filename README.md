@@ -64,9 +64,23 @@ Escala de 0 a 10, sendo 10 a melhor experiência possível.
 
 ---
 
-### ⚪ Gap de Experiência
-Diferença entre a nota máxima (10) e a nota final média. Representa o quanto falta para atingir a excelência.  
-**Fórmula:** `Gap = 10 - NotaFinal`
+### 🕒 Tempo Médio de Espera
+Tempo médio que o cliente aguarda até iniciar a corrida. Quanto menor, melhor a percepção de agilidade.
+
+---
+
+### 💰 Tarifa por Minuto
+Valor médio pago por minuto de corrida. Indica se o cliente sente que está pagando um preço justo pelo tempo.
+
+---
+
+### 😠 Índice de Frustração
+Indicador composto que simula a sensação de ‘não valeu a pena’. Combina tempo, tarifa e distância para medir atrito.
+
+---
+
+### 📈 Proporção de Corridas Caras
+Percentual de corridas com tarifa acima da média. Alta recorrência pode gerar insatisfação mesmo em trajetos curtos.
 
 ---
 
@@ -76,13 +90,24 @@ Métrica agregada que resume os principais fatores de atrito na jornada. Quanto 
 
 ---
 
-### 🔴 Zonas Críticas
-Total de zonas com nota final abaixo de 6. Representam áreas com alto risco de insatisfação e devem ser monitoradas com prioridade.
+### 🔴 Áreas em Alerta
+Total de áreas com nota final abaixo de 6. Representam áreas com alto risco de insatisfação e devem ser monitoradas com prioridade.
 
 ---
 
 ### 📍 Área Crítica em Destaque
 Identifica o ZIP code com o maior score de atrito. Indica a região mais comprometida em termos operacionais e de percepção negativa.
+
+---
+
+### ⚪ Gap de Experiência
+Diferença entre a nota máxima (10) e a nota final média. Representa o quanto falta para atingir a excelência.  
+**Fórmula:** `Gap = 10 - NotaFinal`
+
+---
+
+### 🔴 Zonas Críticas
+Total de zonas com nota final abaixo de 6. Representam áreas com alto risco de insatisfação e devem ser monitoradas com prioridade.
 
 ---
 
