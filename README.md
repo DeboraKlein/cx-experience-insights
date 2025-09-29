@@ -4,9 +4,51 @@ Este projeto apresenta uma análise estratégica da experiência do cliente em z
 
 ---
 
+## 📦 Dataset Utilizado
+As análises foram realizadas com base no conjunto de dados público samples.nyctaxi.trips, disponível na plataforma Databricks Community Edition. Este dataset contém registros reais de corridas de táxi na cidade de Nova York, incluindo:
+
+Horário de embarque e desembarque
+
+Distância percorrida
+
+Valor da tarifa
+
+Localização de origem e destino (ZIP code)
+
+Embora o contexto seja urbano e simulado, os dados foram utilizados como analogia para mapear padrões de atrito e oportunidades de melhoria na jornada do cliente — com foco em Customer Experience (CX).
+
+---
+
 ## 🎯 Objetivo
 
 Avaliar a jornada do cliente em diferentes regiões urbanas com base em dados reais, indo além do NPS tradicional. A proposta é identificar falhas sistêmicas, antecipar insatisfações e apoiar decisões operacionais com foco em experiência.
+
+---
+
+## 💡 Justificativa da Solução em Power BI
+
+Sabemos que as equipes técnicas já utilizam os dashboards do Databricks no dia a dia para análises operacionais. No entanto, este projeto propõe uma camada adicional de visualização voltada para **gestores e líderes de negócio**, com foco em **Customer Experience (CX)**.
+
+A criação do dashboard em Power BI tem como objetivo tornar os indicadores que impactam o **NPS** e o **relacionamento com clientes** mais acessíveis, intuitivos e acionáveis para quem toma decisões estratégicas.
+
+---
+
+## 🧭 Proposta de Integração com o Dashboard Diário
+
+Sugerimos que o **gauge de NPS** seja incorporado ao dashboard de acompanhamento diário de desempenho e metas, com a opção de abrir o relatório completo de CX, caso o usuário deseje aprofundar a análise.
+
+Essa abordagem permite:
+
+- ✅ Evitar sobrecarga de informações no relatório diário
+- ✅ Manter o NPS visível como indicador de alerta
+- ✅ Facilitar ações rápidas em caso de variações significativas na nota
+
+---
+
+## 🤝 Engajamento e Cultura de CX
+
+Como forma de incentivar o comprometimento de todas as áreas com a experiência do cliente, sugerimos que o NPS tenha **peso na nota geral de desempenho da filial** (ou unidade equivalente). Isso reforça a importância do tema e estimula uma cultura orientada ao cliente em todos os níveis da operação.
+
 
 ---
 
