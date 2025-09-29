@@ -131,12 +131,18 @@ O dashboard foi dividido em duas páginas:
 
 ---
 
-## 🔗 Acesso ao Dashboard
+## 🔗 Acesso ao Dashboard no Power BI
 
 O dashboard completo pode ser acessado [neste link](https://app.powerbi.com/view?r=eyJrIjoiZDFjZDVmZmMtYmZkZS00MGZlLTg2Y2ItZjFlYzBkOTYxNjBkIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9))  
 *É necessário ter permissão ou login corporativo para visualizar.*
 
 ---
+
+## 🔗 Acesso ao Dashboard no Databricks
+
+O dashboard completo pode ser acessado [neste link](https://dbc-2f7c928f-6564.cloud.databricks.com/editor/notebooks/2346340275943328?o=1637696810741543) 
+*É necessário ter permissão ou login corporativo para visualizar.*
+
 
 
 ## 🧠 Recomendações
