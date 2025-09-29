@@ -52,6 +52,16 @@ Como forma de incentivar o comprometimento de todas as áreas com a experiência
 
 ---
 
+## 🔗 Acesso ao Dashboard no Databricks
+
+O dashboard original foi desenvolvido no ambiente Databricks, utilizando o notebook `cx_insights_demo`.  
+Ele está disponível [neste link]([https://dbc-2f7c928f-6564.cloud.databricks.com/editor/notebooks/2346340275943328/dashboards/340c5e1e-afc5-4f87-9ba0-52e1fb0ea9d9?o=1637696810741543](https://dbc-2f7c928f-6564.cloud.databricks.com/editor/notebooks/2346340275943328?o=1637696810741543) 
+
+> ⚠️ O acesso está liberado para todos os usuários internos do workspace. Usuários externos não conseguirão visualizar o conteúdo diretamente. Para fins de avaliação pública, recomendamos consultar o notebook exportado (`.ipynb`) e os snapshots incluídos neste repositório.
+
+
+---
+
 ## 🧩 Métricas Utilizadas
 
 ### 🟢 Nota Final
@@ -129,7 +139,7 @@ O dashboard foi dividido em duas páginas:
 
 ## 🔗 Acesso ao Dashboard no Power BI
 
-O dashboard completo pode ser acessado [neste link](https://app.powerbi.com/view?r=eyJrIjoiZDFjZDVmZmMtYmZkZS00MGZlLTg2Y2ItZjFlYzBkOTYxNjBkIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9))  
+O dashboard completo pode ser acessado [neste link](https://app.powerbi.com/view?r=eyJrIjoiZDFjZDVmZmMtYmZkZS00MGZlLTg2Y2ItZjFlYzBkOTYxNjBkIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)  
 *É necessário ter permissão ou login corporativo para visualizar.*
 
 ---
