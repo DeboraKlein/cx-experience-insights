@@ -138,10 +138,17 @@ O dashboard completo pode ser acessado [neste link](https://app.powerbi.com/view
 
 ---
 
-## 🔗 Acesso ao Dashboard no Databricks
+## 🖼️ Exemplos de Visualizações
 
-O dashboard completo pode ser acessado [neste link](https://dbc-2f7c928f-6564.cloud.databricks.com/editor/notebooks/2346340275943328?o=1637696810741543) 
-*É necessário ter permissão ou login corporativo para visualizar.*
+### 1. Capa
+![Capa](https://github.com/user-attachments/assets/d8f5b5a9-e516-4bdb-a59b-7cb8163f0586)
+
+### 2. Gráfico de Dispersão – Atrito vs Frustração
+![Scatter Plot](dashboards/scatter_atrito_frustracao.png)
+
+### 3. Mapa por ZIP Code
+![Mapa por ZIP](dashboards/mapa_zipcodes.png)
+
 
 
 
