@@ -131,6 +131,14 @@ O dashboard foi dividido em duas páginas:
 
 ---
 
+## 🔗 Acesso ao Dashboard
+
+O dashboard completo pode ser acessado [neste link](https://app.powerbi.com/view?r=eyJrIjoiZDFjZDVmZmMtYmZkZS00MGZlLTg2Y2ItZjFlYzBkOTYxNjBkIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9))  
+*É necessário ter permissão ou login corporativo para visualizar.*
+
+---
+
+
 ## 🧠 Recomendações
 
 - Priorizar zonas com nota < 6 e score de atrito elevado  
@@ -143,13 +151,10 @@ O dashboard foi dividido em duas páginas:
 ## 🗂️ Arquivos do Repositório
 
 - `notebooks/cx_insights_demo.ipynb` → notebook Databricks com modelagem e análises  
-- `dashboards/cx_experience_dashboard.pbix` → arquivo do Power BI com visualizações  
+- `dashboards/cx_insights` → snapshots dos dashboards do Databicks  
 - `docs/resumo_executivo.md` → explicações das métricas e insights estratégicos  
-- `dashboards/*.png` → capturas de tela dos gráficos e visuais (opcional)
+- `powerBI/CX_TaxisNYC.pbix` → arquivo do Power BI
 
 ---
 
-## 👩‍💻 Autora
-
-Débora – projeto desenvolvido como parte de avaliação para vaga em Customer Experience (CX)
 
