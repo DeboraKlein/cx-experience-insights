@@ -172,6 +172,4 @@ It is available [here](https://dbc-2f7c928f-6564.cloud.databricks.com/editor/not
 
 ---
 
-## 👩‍💻 Author
 
-Débora – project developed as part of a selection process for a Customer Experience (CX) role
