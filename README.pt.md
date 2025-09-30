@@ -1,4 +1,49 @@
-%md
+CX Radar – Mapeando Experiências Urbanas
+Além do NPS: Inteligência de Reclamações
+🎯 Objetivo
+Avaliar a experiência do cliente em serviços urbanos usando corridas de táxi como analogia. A proposta é ir além do NPS, criando métricas operacionais que revelam atritos reais na jornada e diferenciam falhas humanas de falhas sistêmicas.
+
+📊 Metodologia
+Dados: samples.nyctaxi.trips (Databricks Community Edition)
+
+Preparação: limpeza, criação de métricas derivadas, agrupamento por zona
+
+Indicadores:
+
+Tempo médio de viagem (30%)
+
+Tarifa média (30%)
+
+Índice de frustração (30%)
+
+Proporção de corridas caras (10%)
+
+Nota final: escala 0–10, zonas < 6 = críticas
+
+🔎 Achados
+11430 → frustração média 219.65 (crítico)
+
+11368 → 100% das corridas acima da média global
+
+10305 → nota final 5.66 (alerta vermelho)
+
+11106 → nota final 8.11, mas com frustração elevada
+
+📈 Dashboard
+Página 1 – Visão Geral
+
+Página 2 – Radar de Experiência Urbana
+
+Página 3 – Análises da Experiência Urbana
+
+🔗 Dashboard no Power BI
+
+💡 Recomendações
+Monitorar zonas < 6
+
+Investigar causas sistêmicas (rotas, precificação, tempos)
+
+Usar o gap de experiência como meta de melhoria contínua
 
 # CX Radar: Mapeando Experiências Urbanas
 ## Além do NPS: Inteligência de Reclamações
