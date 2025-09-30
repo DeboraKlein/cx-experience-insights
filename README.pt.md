@@ -37,7 +37,7 @@ Simulação de nota de experiência por zona com base em 4 indicadores:
 - Criação da view resultado_final com todos os indicadores consolidados
 - Exportação para Power BI via CSV
 
-Simulação de dashboard corporativo com:
+#### Simulação de dashboard corporativo com:
 - Indicador principal (gauge ou rosca)
 - Aba “Zonas em Alerta”
 - Tabela com filtros e insights
