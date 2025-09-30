@@ -30,13 +30,27 @@ Avaliar a experiência do cliente em serviços urbanos usando corridas de táxi 
   - 11106 → nota final 8.11, mas com frustração elevada
 
 ## Dashboard
-  - Página 1 – Visão Geral
 
-  - Página 2 – Radar de Experiência Urbana
+### 1. Capa
+![Capa](https://github.com/user-attachments/assets/d8f5b5a9-e516-4bdb-a59b-7cb8163f0586)
 
-  - Página 3 – Análises da Experiência Urbana
+### 2. Radar de Experiência Urbana
+![Radar](https://github.com/user-attachments/assets/19b549ba-0ead-414d-b515-24facb8bd065)
+
+### 3. Análises da Experiência Urbana
+![Análises](https://github.com/user-attachments/assets/e7634ec7-250d-416d-b263-07927000302e)
 
 ## Dashboard no Power BI
+
+O dashboard completo pode ser acessado [neste link](https://app.powerbi.com/view?r=eyJrIjoiZDFjZDVmZmMtYmZkZS00MGZlLTg2Y2ItZjFlYzBkOTYxNjBkIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)  
+*É necessário ter permissão ou login corporativo para visualizar.*
+
+## Acesso ao Dashboard no Databricks
+
+O dashboard original foi desenvolvido no ambiente Databricks, utilizando o notebook `cx_insights_demo`.  
+Ele está disponível [neste link](https://dbc-2f7c928f-6564.cloud.databricks.com/editor/notebooks/2346340275943328?o=1637696810741543) 
+
+> ⚠️ O acesso está liberado para todos os usuários internos do workspace. Usuários externos não conseguirão visualizar o conteúdo diretamente. Para fins de avaliação pública, recomendamos consultar o notebook exportado (`.ipynb`) e os snapshots incluídos neste repositório.
 
 ## Recomendações
   - Monitorar zonas < 6
