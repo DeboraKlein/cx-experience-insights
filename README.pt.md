@@ -32,16 +32,21 @@ Simulação de nota de experiência por zona com base em 4 indicadores:
 - Zonas com nota < 6 foram classificadas como críticas
 - Identificação de padrões operacionais que geram insatisfação
 - Comparação entre zonas para priorização de melhorias
+  #### Achados Relevantes
+    Zona 11430 → frustração média 219.65 (crítico)
+    Zona 11368 → 100% das corridas acima da média global
+    Zona 10305 → nota final 5.66 (alerta vermelho)
+    Zona 11106 → nota final 8.11, mas com frustração elevada
 
 ###  Implantação
 - Criação da view resultado_final com todos os indicadores consolidados
 - Exportação para Power BI via CSV
 
-#### Simulação de dashboard corporativo com:
-- Indicador principal (gauge ou rosca)
-- Aba “Zonas em Alerta”
-- Tabela com filtros e insights
-- Slide executivo com recomendações
+  #### Simulação de dashboard corporativo com:
+  - Indicador principal (gauge ou rosca)
+  - Aba “Zonas em Alerta”
+  - Tabela com filtros e insights
+  - Slide executivo com recomendações
 
 ###  Instruções de Uso
 - Clone o repositório
