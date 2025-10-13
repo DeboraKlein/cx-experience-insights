@@ -89,7 +89,7 @@ termômetro geral da operação.
 ---
 
 
-### ⚪ Gap de Experiência
+###  Gap de Experiência
 Mostra o quanto falta para atingir a nota máxima (10). É calculado como a diferença entre 10 e a nota final média. Quanto maior o gap, maior o espaço para melhorias.
 Essas medidas foram criadas para apoiar decisões operacionais baseadas em dados. Elas ajudam a identificar gargalos, priorizar zonas críticas e orientar ações que melhorem a experiência do cliente.
 Priorizar ações em zonas com alto atrito
