@@ -50,8 +50,6 @@ O dashboard completo pode ser acessado [neste link](https://app.powerbi.com/view
 O dashboard original foi desenvolvido no ambiente Databricks, utilizando o notebook `cx_insights_demo`.  
 Ele está disponível [neste link](https://dbc-2f7c928f-6564.cloud.databricks.com/editor/notebooks/2346340275943328?o=1637696810741543) 
 
-> ⚠️ O acesso está liberado para todos os usuários internos do workspace. Usuários externos não conseguirão visualizar o conteúdo diretamente. Para fins de avaliação pública, recomendamos consultar o notebook exportado (`.ipynb`) e os snapshots incluídos neste repositório.
-
 ## Recomendações
   - Monitorar zonas < 6
 
